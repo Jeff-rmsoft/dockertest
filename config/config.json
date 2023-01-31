@@ -1,0 +1,10 @@
+{
+    "development": {
+        "host": "192.168.0.99",
+        "port": 3306,
+        "database": "sesac2",
+        "username": "user",
+        "password": "1234",
+        "dialect": "mysql"
+    }
+}
